@@ -5,7 +5,7 @@ En este repositorio encontrará la limpieza y manipulación de una base de datos
 
 **Estructura del repositorio**
 
-El repositorio consta de 23 jupyters:
+El repositorio consta de 2 jupyters:
 
     1. *Cleaning_funtions*----> en donde ubicaremos las funciones aplicadas en nuestros Jupyter principales, para permitir que el código permanezca lo más limpio posible.
 
