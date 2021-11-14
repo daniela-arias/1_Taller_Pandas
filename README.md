@@ -1,4 +1,4 @@
-# 1_Taller_Pandas
+# Taller_Pandas
 
 **Objetivo**
 
